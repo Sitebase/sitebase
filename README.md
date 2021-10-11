@@ -24,7 +24,7 @@ Helpfull for Readme:
 - https://github.com/anuraghazra/github-readme-stats
 -->
 
-<img src="" alt="banner that says Wim Mostmans - CTO" width="100%">
+<img src="github-header-wim.png" alt="banner that says Wim Mostmans - CTO" width="100%">
 
 
 ## Hi there! <!-- Star Wars Reference -->
