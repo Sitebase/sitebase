@@ -69,6 +69,8 @@ Through my study as electronic engineer and specialisation in networks I'm also 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
+### My coding playlist
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4cR8j3Y993uXqFBwOmbyFV?si=2eebaa6b85054149)
 
 ### Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitebase&layout=compact)
@@ -76,4 +78,4 @@ Through my study as electronic engineer and specialisation in networks I'm also 
 
 
 ### Take a look at our Ambassify [Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sitebase.415901372) <!-- usernam
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sitebase.415901372)
