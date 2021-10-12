@@ -19,7 +19,7 @@ Through my study as electronic engineer and specialisation in networks I'm also 
 - Mountainbike
 
 
-### Knows about:
+### 🧠 Knows about:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,17 +44,18 @@ Through my study as electronic engineer and specialisation in networks I'm also 
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### Mostly uses:
+### ⚙️ Mostly uses:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-### My coding playlist:
+### 🎵 My coding playlist:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4cR8j3Y993uXqFBwOmbyFV?si=2eebaa6b85054149)
 
-### Stats:
+### 📈 Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitebase&layout=compact)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sitebase&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-### Take a look at our Ambassify [Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38)
+### 💪 We are hiring at Ambassify:
+Want to join a talented team of developer working with a modern tech stack creating a product used by international enterprises? Check out our [Ambassify Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38) or contact me for more info.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sitebase.415901372)
