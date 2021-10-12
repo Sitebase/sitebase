@@ -12,6 +12,7 @@ Through my study as electronic engineer and specialisation in networks I'm also 
 - Web technologies
 - ⚡ Eletronics
 - Productivity and automation
+- Cyber security
 - Spread sheets
 - 3D Printing
 - DIY projects (read more about this on [my blog](https://www.sitebase.be/))
