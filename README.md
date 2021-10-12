@@ -58,5 +58,5 @@ Through my study as electronic engineer and specialisation in networks I'm also 
 
 
 ### 💪 We are hiring at Ambassify:
-Want to join a talented team of developer working with a modern tech stack creating a product used by international enterprises? Check out our [Ambassify Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38) or contact me for more info.
+Want to join our talented team of developers, working with a modern tech stack creating a product used by large international enterprises? Check out our [Ambassify Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38) or contact me for more info.
 
