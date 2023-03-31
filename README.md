@@ -3,7 +3,7 @@
 
 ## Hi there 👋! <!-- Star Wars Reference -->
 
-I'm Wim Mostmans, I'm co-founder and CTO [@Ambassify](https://www.github.com). As an autodidact web developer I have over 15 years of experience in development. I've worked as a freelance developer for the last 10+ years developing applications and digital solutions.
+I'm Wim Mostmans, I'm co-founder and CTO [@Ambassify](https://www.blagithub.com). As an autodidact web developer I have over 15 years of experience in development. I've worked as a freelance developer for the last 10+ years developing applications and digital solutions.
 
 Through my study as electronic engineer and specialisation in networks I'm also comfortable setting up my own servers and know my way around Linux systems.
 
